@@ -1,0 +1,48 @@
+body{
+    font-size: 16px;
+    font-weight: 600;
+}
+body{
+   background-color: #05eabf;
+}
+.foto {
+    height:400px; 
+    width: 300px;
+} 
+img {
+    border: 3px solid #00a8e1;
+   }
+.info {
+    display: flex;
+    margin-bottom: 10px;
+}
+.text {
+    margin-left: 100px;
+}
+.card h2{
+    margin-bottom: 10px;
+}
+.list {
+    padding: 0 20px;
+}
+.forma label{
+    display: block;
+    font-size: 30px;
+}
+.forma input {
+    width: 50%;
+    background: transparent;
+    border-bottom: 0.5px solid rgb(100, 88, 88);
+    color: #000;
+}
+.forma textarea {
+    width: 50%;
+    background: transparent;
+    border-bottom: 0.1px solid rgb(100, 88, 88);;
+    color: #000;
+}
+.svyas {
+    background: #111;
+    padding: 20px 20px;
+    color: #fff;
+}
